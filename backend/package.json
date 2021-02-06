@@ -16,7 +16,7 @@
     "merge-stream": "^2.0.0",
     "minio": "^7.0.13",
     "morgan": "~1.9.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "nodemonConfig": {
     "verbose": true,
